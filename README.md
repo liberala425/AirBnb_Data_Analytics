@@ -13,8 +13,8 @@ Both datasets contain three files:
 3. review.csv
 
 ## Analytics Steps
-1. Analyse which neighbourhoods are popular
-2. Analyse what time of the year are busiest or peak time
-3. Analyse what factors affect Airbnb listing price
+1. Analyse which neighbourhoods are popular.
+2. Analyse what time of the year are the busiest or peak time.
+3. Analyse what factors affect Airbnb listing price using a linear regression model.
 
 Using Jupyter Notebook to perform the analysis.
