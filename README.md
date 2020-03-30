@@ -1,9 +1,11 @@
 # AirBnb_Data_Analytics
 
 ## Data Description
-Data is from Kaggle:
-https://www.kaggle.com/airbnb/seattle/data
-There are three files: 
+Data is from Kaggle. There are two datasets, one is for Seattle, the other one is for Boston.
+https://www.kaggle.com/airbnb/seattle
+https://www.kaggle.com/airbnb/boston
+
+Both datasets contain three files: 
 1. listing.csv 
 2. calendar.csv 
 3. review.csv
