@@ -18,3 +18,8 @@ Both datasets contain three files:
 3. Analyse what factors affect Airbnb listing price using a linear regression model.
 
 Using Jupyter Notebook to perform the analysis.
+
+## Blog Post
+write a blog post on medium.com
+
+https://medium.com/@liberala425/airbnb-prices-analyses-for-seattle-and-boston-ca987f05acf2
