@@ -2,6 +2,7 @@
 
 ## Data Description
 Data is from Kaggle. There are two datasets, one is for Seattle, the other one is for Boston.
+
 https://www.kaggle.com/airbnb/seattle
 https://www.kaggle.com/airbnb/boston
 
